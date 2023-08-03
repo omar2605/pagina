@@ -19,10 +19,11 @@ body {
 .titulo {
   color: darkorange;
   position: absolute;
-  top: 5%;
-  right: 50%;
 
   transform: translate(50, -50%);
+}
+.solar {
+  color: blue;
 }
 .parrafo {
   font-size: larger;
